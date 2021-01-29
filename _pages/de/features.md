@@ -61,16 +61,16 @@ CSV, **DST**, **EXP**, **JEF**, PEC, **PES**, SVG, TXT (G-CODE), U01, **VP3**
 ### Lesen
 100, 10o, BRO, DAT, DSB, **DST**, DSZ, EMD, **EXP**, EXY, FXY, GT, INB, **JEF**, JPX, KSM, MAX, MIT, NEW, PCD, PCM, PCQ, PCS, PEC, **PES**, PHB, PHC, SEW, SHV, STC, STX, TAP, TBF, TXT (G-CODE), U01, **VP3**, XXX, ZXY
 
-## Ausschau
+## Vorschau
 
 Hier sind Funktionen, die wir hoffen hinzufügen zu können (nicht unbedingt in dieser Reihenfolge):
 
-* Gradient Fill (already realised as a [hidden feature](https://github.com/inkstitch/inkstitch/pull/108#issuecomment-369444197))
-* Pattern Fill [#33](https://github.com/inkstitch/inkstitch/issues/33)
+* Farbverlauf für Füllstiche (bereits veröffentlicht als eine [versteckte Funktion](https://github.com/inkstitch/inkstitch/pull/108#issuecomment-369444197))
+* Musterfüllung [#33](https://github.com/inkstitch/inkstitch/issues/33)
 * Multi-Decoration Support [#371](https://github.com/inkstitch/inkstitch/issues/371)
-* Automatic splitting of designs for small machines [#182](https://github.com/inkstitch/inkstitch/issues/182)
-* Multiple Underlay for Fill [#110](https://github.com/inkstitch/inkstitch/issues/110)
+* Automatisches Zerlegen von Designs für kleine Stickrahmen [#182](https://github.com/inkstitch/inkstitch/issues/182)
+* Mehrfach Unterlagen für Füllstiche [#110](https://github.com/inkstitch/inkstitch/issues/110)
 * Split satins [#77](https://github.com/inkstitch/inkstitch/issues/77)
-* Running Stitch Autoroute [#373](https://github.com/inkstitch/inkstitch/issues/373)
+* Automatisch geführte Laufstiche [#373](https://github.com/inkstitch/inkstitch/issues/373)
 * 32-bit Linux support (build engineers needed!)
 
